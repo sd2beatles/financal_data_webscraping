@@ -1,4 +1,4 @@
-# financal_data_webscraping(네이버 금융 크롤링)
+# Financal_Data_Webscraping(네이버 금융 크롤링)
 
 # 1. Introduction 
 
