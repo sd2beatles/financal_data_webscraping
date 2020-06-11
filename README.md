@@ -13,3 +13,20 @@ Reflecting the recent depression of the real-estate market,  we should be well a
 
 ## 2. Objective
 
+[English]Before looking at the financial statemts and stock movenets, we need to collect the public data for future use. In this kernel, I will demonstrate codes to collect and display them in a neat and readable manner for anyone who are unfamilar with the programming language. NAVER Finance is known as  one of the top notches investors rely on. Since codes of web scraping data from 'yahoo'  are easy to obtain by googling, I will write codes for retrieving information from NAVER Finance.
+
+>[Korea]이러한 자료들을 활용하기 앞서서, 우리는 공적자료들을 수집할 필요가 있스비낟. 이 작은 프로젝트를 통해서 프로그래밍에 친숙하지 
+>못한 유저들을 위해서 코드를 구현해 보았습니다. 네이버 금융은 많은 투자들이 사용하는 사이트중 하나입니다. 이미 야후관련된 크롤링은 
+>많기 때문에, 네이버 금융으로 선택을 해봤습니다.
+
+## 3. Enviroments 
+- python 3.8
+- MySql 
+
+## 4. Contents
+
+4.1 Individual Search (Data For Candlestick on individual basis)
+
+![image](https://user-images.githubusercontent.com/53164959/84439507-507ff100-ac73-11ea-863d-a6e2f8444a46.png)
+
+
