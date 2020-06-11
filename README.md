@@ -27,7 +27,7 @@ Reflecting the recent depression of the real-estate market,  we should be well a
 
 4.1 Individual Search (Data For Candlestick on individual basis)
 
-<imag scr='https://user-images.githubusercontent.com/53164959/84439507-507ff100-ac73-11ea-863d-a6e2f8444a46.png' style='width:400px;'>
+<imag scr='https://user-images.githubusercontent.com/53164959/84439507-507ff100-ac73-11ea-863d-a6e2f8444a46.png' alt="Drawing" style='width:400px;'>
 
 
 
