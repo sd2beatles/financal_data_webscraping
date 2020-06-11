@@ -1,6 +1,6 @@
 # financal_data_webscraping(네이버 금융 크롤링)
 
-## 1. Introduction 
+# 1. Introduction 
 
 
 [Enlish]Researchers specialized in economics and finance suggests that relatively a small proportion of working-age workers are interested in the investment to the financial assets. Also, a small number of potential investors read and make use of financial data publicly available.
@@ -11,7 +11,7 @@ Reflecting the recent depression of the real-estate market,  we should be well a
 >활용하지 못한다는 말도 덧붙였습니다. 최근의 부동산 자산의 불황을 고려할 때, 이러한 자료들을 활용하고 이해하는 것은 노후를 준비하는 데
 >필요할것이라 생각합니다. 
 
-## 2. Objective
+# 2. Objective
 
 [English]Before looking at the financial statemts and stock movenets, we need to collect the public data for future use. In this kernel, I will demonstrate codes to collect and display them in a neat and readable manner for anyone who are unfamilar with the programming language. NAVER Finance is known as  one of the top notches investors rely on. Since codes of web scraping data from 'yahoo'  are easy to obtain by googling, I will write codes for retrieving information from NAVER Finance.
 
@@ -19,15 +19,16 @@ Reflecting the recent depression of the real-estate market,  we should be well a
 >못한 유저들을 위해서 코드를 구현해 보았습니다. 네이버 금융은 많은 투자들이 사용하는 사이트중 하나입니다. 이미 야후관련된 크롤링은 
 >많기 때문에, 네이버 금융으로 선택을 해봤습니다.
 
-## 3. Enviroments 
+# 3. Enviroments 
 - python 3.8
 - MySql 
 
-## 4. Contents
+# 4. Contents
 
-4.1 Individual Search (Data For Candlestick on individual basis)
+## 4.1 Individual Search (Data For Candlestick on individual basis)
 
-<imag scr='https://user-images.githubusercontent.com/53164959/84439507-507ff100-ac73-11ea-863d-a6e2f8444a46.png' alt="Drawing" style='width:400px;'>
+![image](https://user-images.githubusercontent.com/53164959/84439737-c1270d80-ac73-11ea-9bd4-fdb6282aabb8.png)
+
 
 
 
