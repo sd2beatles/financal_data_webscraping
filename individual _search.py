@@ -48,6 +48,7 @@ class individualStock(object):
         return reports
     
 def main():
+    #Let's run the codes
     codes=['005930','066570','068270','252670','017670 ','035720 ']
     results=individualStock(codes).finalReport()
     display(results.head())
