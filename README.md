@@ -29,6 +29,9 @@ Reflecting the recent depression of the real-estate market,  we should be well a
 
 ![image](https://user-images.githubusercontent.com/53164959/84439737-c1270d80-ac73-11ea-9bd4-fdb6282aabb8.png)
 
+## 4.2 Daily Quotes For An Indvidual Company
+
+
 
 
 
