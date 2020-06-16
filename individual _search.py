@@ -53,7 +53,7 @@ def main():
     results=individualStock(codes).finalReport()
     display(results.head())
     
-if __init__=="__main__":
+if __name__=="__main__":
     main()
     
 
